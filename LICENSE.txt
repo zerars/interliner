@@ -1,0 +1,94 @@
+INTERLINER — KULLANIM LİSANSI
+Sürüm 1.3.0 · Yürürlük tarihi: 2026-10-04
+
+Telif hakkı (c) 2026 Deniz Uraz Erarslan. Tüm hakları saklıdır.
+
+Bu yazılım ücretsizdir. Kurarak veya kullanarak aşağıdaki şartları kabul etmiş olursunuz.
+
+1. VERİLEN HAK
+   Herkese, Yazılım'ı ücretsiz olarak kurma, çalıştırma ve kendi kullanımı için
+   istediği kadar bilgisayarda kullanma hakkı verilir. Bu hak münhasır değildir.
+
+2. PAYLAŞMA
+   Yazılım'ın değiştirilmemiş kopyasını başkalarıyla ücretsiz paylaşabilirsiniz.
+   Yazılım'ı veya bir kopyasını satamaz, ücret karşılığı dağıtamaz ve başka bir
+   ürünün parçası olarak sunamazsınız.
+
+3. YASAKLAR
+   a) Yazılım'ı değiştirip dağıtamazsınız;
+   b) telif ve lisans bildirimlerini kaldıramaz veya değiştiremezsiniz;
+   c) Yazılım'ı hukuka aykırı amaçlarla kullanamazsınız.
+
+4. BAĞIŞ
+   Bağış isteğe bağlıdır. Hiçbir özelliği açmaz, bir hizmet veya destek taahhüdü
+   doğurmaz ve bir satın alma değildir.
+
+5. KENDİ API ANAHTARINIZ
+   Yazılım'ın yapay zekâ özellikleri sizin kendi sağlayıcı hesaplarınızı kullanır.
+   Sağlayıcılara ödenen ücretler, sağlayıcıların kullanım koşullarına uyum ve
+   anahtarlarınızın güvenliği sizin sorumluluğunuzdadır.
+
+6. VERİ
+   Yazılım yerel çalışır. Çevrilen metinler yalnızca seçtiğiniz sağlayıcıya gider.
+   Geliştirici, Yazılım aracılığıyla hiçbir kullanım verisi, metin veya telemetri
+   toplamaz. Ayrıntılar GIZLILIK.md dosyasındadır.
+
+7. GARANTİ REDDİ
+   YAZILIM ÜCRETSİZ VE "OLDUĞU GİBİ" SUNULUR; açık veya zımni hiçbir garanti verilmez.
+   Çeviri ve açıklamalar yapay zekâ modelleri tarafından üretilir; doğru veya eksiksiz
+   olacağı taahhüt edilmez. Hukuki, tıbbi, akademik veya mali kararlarda tek dayanak
+   olarak kullanmayın.
+
+8. SORUMLULUK
+   Yürürlükteki hukukun izin verdiği azami ölçüde, geliştirici Yazılım'ın
+   kullanımından doğan hiçbir zarardan, API kullanım maliyetleri dâhil, sorumlu
+   değildir. Bu madde kasıt veya ağır kusur hâllerinde ve emredici hükümlerde
+   uygulanmaz.
+
+9. UYGULANACAK HUKUK
+   Türkiye Cumhuriyeti hukuku uygulanır. Yerleşik olduğunuz ülkenin emredici
+   hükümleri saklıdır.
+
+10. İLETİŞİM
+   urazerarslan@gmail.com
+
+--------------------------------------------------------------------------------
+
+INTERLINER — LICENCE
+Version 1.3.0 · Effective 2026-10-04
+
+Copyright (c) 2026 Deniz Uraz Erarslan. All rights reserved.
+
+This software is free. By installing or using it you accept these terms.
+
+1. GRANT. Anyone may install and run this software free of charge, on as many
+   computers as they like, for their own use. This right is non-exclusive.
+
+2. SHARING. You may share unmodified copies free of charge. You may not sell the
+   software or a copy of it, distribute it for a fee, or bundle it into another product.
+
+3. RESTRICTIONS. You may not distribute modified copies, remove copyright or licence
+   notices, or use the software for unlawful purposes.
+
+4. DONATIONS. Donations are voluntary. They unlock nothing, create no service or
+   support obligation, and are not a purchase.
+
+5. YOUR OWN API KEYS. The AI features use your own provider accounts. Provider fees,
+   compliance with provider terms and the safekeeping of your keys are your
+   responsibility.
+
+6. DATA. The software runs locally. Text you look up goes only to the provider you
+   choose. The author collects no telemetry, text or usage data. See GIZLILIK.md.
+
+7. NO WARRANTY. THE SOFTWARE IS FREE AND PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
+   KIND. Translations and explanations are produced by AI models and are not
+   guaranteed to be accurate or complete.
+
+8. LIABILITY. To the maximum extent permitted by law, the author is not liable for
+   any damage arising from use of the software, including API usage costs. Nothing
+   limits liability for wilful misconduct, gross negligence or mandatory law.
+
+9. GOVERNING LAW. The laws of the Republic of Türkiye apply, without prejudice to the
+   mandatory rules of your country of residence.
+
+10. CONTACT. urazerarslan@gmail.com
